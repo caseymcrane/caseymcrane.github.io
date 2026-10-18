@@ -3,7 +3,7 @@
 PhD Candidate in Mathematics · University of Texas at Dallas
 [cmc102120@utdallas.edu]
 
-**Links:** [CV (PDF)](files/CV.pdf) · [arXiv](https://arxiv.org/search/math?searchtype=author&query=Crane,+C) · [ORCID](https://orcid.org/0009-0003-2315-7190)
+**Links:** [CV (PDF)](CV.pdf) · [arXiv](https://arxiv.org/search/math?searchtype=author&query=Crane,+C) · [ORCID](https://orcid.org/0009-0003-2315-7190)
 
 ---
 
