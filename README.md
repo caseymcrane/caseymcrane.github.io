@@ -49,7 +49,7 @@ Z. Ghanem, **C. Crane**, J. Liu
 iterated prisoner's dilemma**
 **C. Crane**
 Submitted to *Journal of Theoretical Biology*.
-[PDF](files/trust-hysteresis-ipd.pdf)
+[PDF](trust-hysteresis-ipd.pdf)
 
 **Global Hopf bifurcation and symmetric periodic solutions in
 multi-agent systems with pseudoneutral distributed delays**
@@ -70,14 +70,14 @@ In revision at *[TMNA]*
 
 ## Teaching
 
-- **Teaching Associate**, [MATH 2417 Calculus I], [University of Texas at Dallas],
-  [Spring 2026]. Instructor of record for a full lecture section.
-- **Teaching Assistant**, [University of Texas at Dallas], [years]. Courses supported:
-  [Calculus I, Calculus II, Multivariable Calculus, Differential Equations, Functional Analysis].
+- **Teaching Associate**, MATH 2413 Differential Calculus, University of Texas at Dallas,
+  Spring 2026, Instructor of record for a full lecture section.
+- **Teaching Assistant**, University of Texas at Dallas, 2021-2026. Courses supported:
+  Calculus I, Calculus II, Multivariable Calculus, Differential Equations, Functional Analysis (graduate).
 
 ---
 
 ## Talks
 
-- *Global Hopf Bifurcation in Symmetric Configuration of Distributed Delay Differential Equations*, [SIAM Conference Texas-Louisiana Section], [Baylor University], [October 2024].
-- *Global symmetric Hopf bifurcation using equivariant degree*, [Invited Talk], [Hunan Normal University], [June 2023].
+- *Global Hopf Bifurcation in Symmetric Configuration of Distributed Delay Differential Equations*, SIAM Conference Texas-Louisiana Section, Baylor University, October 2024.
+- *Global symmetric Hopf bifurcation using equivariant degree*, (Invited Talk), Hunan Normal University, June 2023.
