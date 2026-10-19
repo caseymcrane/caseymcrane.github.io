@@ -52,10 +52,10 @@ Submitted to *Journal of Theoretical Biology*.
 [PDF](trust-hysteresis-ipd.pdf)
 
 **Global Hopf bifurcation and symmetric periodic solutions in
-multi-agent systems with pseudoneutral distributed delays**
+multi-agent systems with neutral distributed delays**
 **C. Crane**
 In revision at *SIADS*.
-[arXiv]
+[arXiv](https://arxiv.org/abs/2604.20740)
 
 **Unbounded Branches of Non-Radial Solutions to Semilinear Elliptic Systems on a Unit Ball in R3 and Their Patterns**
 **C. Crane**, Z. Ghanem
@@ -63,7 +63,7 @@ In revision at *SIADS*.
 
 **Global Bifurcation of Non-Radial Solutions for Symmetric Sub-linear Elliptic Systems on the Planar Unit Disc**
 Z. Ghanem, **C. Crane**
-In revision at *[TMNA]*
+In revision at *TMNA*
 [arXiv](https://arxiv.org/abs/2504.06519)
 
 ---
