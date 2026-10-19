@@ -25,43 +25,43 @@ Alongside consensus dynamics, I study memory in other models of strategic intera
 
 ### Published
 
-**Global Hopf bifurcation in symmetric configurations of distributed
-delay differential equations**
+"**Global Hopf bifurcation in symmetric configurations of distributed
+delay differential equations**"
 C. Chen, **C. Crane**, T. Hensley
 *Communications in Pure and Applied Analysis* 27 (2026), 170–194.
 [DOI](https://doi.org/10.3934/cpaa.2025118)
 
-**Periodic solutions in reversible symmetric second order systems with
-multiple distributed delays**
+"**Periodic solutions in reversible symmetric second order systems with
+multiple distributed delays**"
 Y. Duan, **C. Crane**, W. Krawcewicz, H. Xiao
 *Journal of Differential Equations* 401 (2024), 282–307.
 [DOI](https://doi.org/10.1016/j.jde.2024.04.030)
 
-**Global bifurcation of non-radial solutions for symmetric sub-linear
-elliptic systems on the planar unit disc**
+"**Global bifurcation of non-radial solutions for symmetric sub-linear
+elliptic systems on the planar unit disc**"
 Z. Ghanem, **C. Crane**, J. Liu
 *Journal of Fixed Point Theory and Applications* 26 (2024), article 57.
 [arXiv](https://arxiv.org/abs/2404.13495) [DOI](https://doi.org/10.1007/s11784-024-01133-8)
 
 ### Under review / in revision
 
-**Trust as hysteresis: analytically tractable strategies for the
-iterated prisoner's dilemma**
+"**Trust as hysteresis: analytically tractable strategies for the
+iterated prisoner's dilemma**"
 **C. Crane**
 Submitted to *Journal of Theoretical Biology*.
 [PDF](trust-hysteresis-ipd.pdf)
 
-**Global Hopf bifurcation and symmetric periodic solutions in
-multi-agent systems with neutral distributed delays**
+"**Global Hopf bifurcation and symmetric periodic solutions in
+multi-agent systems with neutral distributed delays**"
 **C. Crane**
 In revision at *SIADS*.
 [arXiv](https://arxiv.org/abs/2604.20740)
 
-**Unbounded Branches of Non-Radial Solutions to Semilinear Elliptic Systems on a Unit Ball in R3 and Their Patterns**
+"**Unbounded Branches of Non-Radial Solutions to Semilinear Elliptic Systems on a Unit Ball in R3 and Their Patterns**"
 **C. Crane**, Z. Ghanem
 [arXiv](https://arxiv.org/abs/2512.14957)
 
-**Global Bifurcation of Non-Radial Solutions for Symmetric Sub-linear Elliptic Systems on the Planar Unit Disc**
+"**Global Bifurcation of Non-Radial Solutions for Symmetric Sub-linear Elliptic Systems on the Planar Unit Disc**"
 Z. Ghanem, **C. Crane**
 In revision at *TMNA*
 [arXiv](https://arxiv.org/abs/2504.06519)
