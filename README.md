@@ -51,11 +51,10 @@ iterated prisoner's dilemma**"
 Submitted to *Journal of Theoretical Biology*.
 [PDF](trust-hysteresis-ipd.pdf)
 
-"**Global Hopf bifurcation and symmetric periodic solutions in
-multi-agent systems with neutral distributed delays**"
+"**Global Hopf bifurcation and symmetric periodic solutions in multi-agent systems with pseudoneutral memory**"
 **C. Crane**
-In revision at *SIADS*.
-[arXiv](https://arxiv.org/abs/2604.20740)
+In revision at *SIADS*. (Note: arXiv link does not currently reflect newest revision, please see attached PDF)
+[arXiv](https://arxiv.org/abs/2604.20740) [PDF](pseudoneutral.pdf)
 
 "**Unbounded Branches of Non-Radial Solutions to Semilinear Elliptic Systems on a Unit Ball in R3 and Their Patterns**"
 **C. Crane**, Z. Ghanem
@@ -78,6 +77,6 @@ In revision at *TMNA*
 ---
 
 ## Talks
-
+- *Consensus-breaking global Hopf bifurcation in memory-based multi-agent systems with neutral delays.*, SIAM Conference Texas-Louisiana Section, Southern Methodist University, October 2026.
 - *Global Hopf Bifurcation in Symmetric Configuration of Distributed Delay Differential Equations*, SIAM Conference Texas-Louisiana Section, Baylor University, October 2024.
 - *Global symmetric Hopf bifurcation using equivariant degree*, (Invited Talk), Hunan Normal University, June 2023.
