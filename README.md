@@ -45,8 +45,7 @@ Z. Ghanem, **C. Crane**, J. Liu
 
 ### Under review / in revision
 
-"**Trust as hysteresis: analytically tractable strategies for the
-iterated prisoner's dilemma**"
+"**Trust as hysteresis: analytically tractable strategies for the iterated prisoner's dilemma**"
 **C. Crane**
 Submitted to *Journal of Theoretical Biology*.
 [PDF](trust-hysteresis-ipd.pdf)
@@ -77,6 +76,6 @@ In revision at *TMNA*
 ---
 
 ## Talks
-- *Consensus-breaking global Hopf bifurcation in memory-based multi-agent systems with neutral delays.*, SIAM Conference Texas-Louisiana Section, Southern Methodist University, October 2026.
-- *Global Hopf Bifurcation in Symmetric Configuration of Distributed Delay Differential Equations*, SIAM Conference Texas-Louisiana Section, Baylor University, October 2024.
+- *Consensus-breaking global Hopf bifurcation in memory-based multi-agent systems with neutral delays*, SIAM Conference Texas-Louisiana Section, Southern Methodist University, October 2026.
+- *Global Hopf bifurcation in symmetric configurations of distributed delay differential equations*, SIAM Conference Texas-Louisiana Section, Baylor University, October 2024.
 - *Global symmetric Hopf bifurcation using equivariant degree*, (Invited Talk), Hunan Normal University, June 2023.
