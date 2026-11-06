@@ -52,7 +52,7 @@ Submitted to *Journal of Theoretical Biology*.
 
 "**Global Hopf bifurcation and symmetric periodic solutions in multi-agent systems with pseudoneutral memory**"
 **C. Crane**
-In revision at *SIADS*. (Note: arXiv link does not currently reflect newest revision, please see attached PDF)
+In revision at *SIADS*.
 [arXiv](https://arxiv.org/abs/2604.20740) [PDF](pseudoneutral.pdf)
 
 "**Unbounded Branches of Non-Radial Solutions to Semilinear Elliptic Systems on a Unit Ball in R3 and Their Patterns**"
